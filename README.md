@@ -3,4 +3,5 @@ This repository is a reimplementation of the paper "Adaptive Convolutions with P
 
 ## Usage
 Run main.py to train Ad-ResNet-s on CIFAR-100
+
 Model classes with ACDA layers contain test functions to summarize the network architecture
